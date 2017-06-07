@@ -15,7 +15,6 @@
                 libboost_date_time-vc140-mt-gd-1_64.lib
                 libboost_regex-vc140-mt-gd-1_64.lib
                 libboost_thread-vc140-mt-gd-1_64.lib
-                
             Release:
                 libboost_system-vc140-mt-1_64.lib
                 libboost_date_time-vc140-mt-1_64.lib
